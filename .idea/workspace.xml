@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64b44824-3a72-44cc-9b1c-bbffb975a0b0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TWO INTEGER.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/add 3 int.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/add var(t2-6).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/change var val(t2-5).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/char in int(t3-10).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/char var(t2-4).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/char var(t3-4).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/char.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com 2 num .c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com 2 num equal.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com 2 num less.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/decre var twice.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/div var(t2-9).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/float var (t2-3).c" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/float var(t3-2).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/floating.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hello.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/incre var twice.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/int to float(t3-9).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/int var (t2-1).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/int var(t3-1).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/integer.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/log NOT on 0.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/mul var(t2-8).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/name.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/post incre.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pre decre.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pre-incre.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/prod of 2 int.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/quo &amp; rem .c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/size of char(t3-8).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/size of double(t3-7).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/size of float(t3-6).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/size of int(t3-5).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/string.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sub of 2 int.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sub var(t2-7).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sum of 2 int.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/two int var(t2-2).c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/two lines.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/val later(t2-10).c" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ApOMpt1F" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="39FC4jbxdWQp0ql5GLPYhMRn2R8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.AND and OR.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.AO add equa.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.AO equ.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.AO mul equa.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.AO sub equa.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.AO val .c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ARO pro .c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ARO sub.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ARO sum.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.LO AND+OR.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.LO AND.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.LO NOT 0.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.LO NOT non0.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.LO OR.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.RO equequ.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.RO great.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.RO less.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.RO not equ.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TWO INTEGER.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.add 3 int.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.add 3int.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.add var(t2-6).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.change var val(t2-5).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.char in int(t3-10).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.char var(t3-4).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.char var.c (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.char var.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.char.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.com 2 num .c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.com 2 num equal.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.com 2 num gre &amp; less.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.com 2 num less.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.com 2 num not equ.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.decre twice.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.decre var twice.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.div and  mod equa.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.div var(t2-9).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.divequ and %equ.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.double var.c (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.double var.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.float var (t2-3).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.float var(t3-2).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.floating.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.greequ &amp;less equ.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.hello(ps-1).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.hello.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.incr twice.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.incre var twice.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.int to float.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.int var(t3-1).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.int var.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.integer.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.log AND on non 0.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.log NOT on 0.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.log NOT on non 0.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.log OR on 2 var.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.mul var.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.mulequ.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.name.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.post inc.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.post incre.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.pre dec.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.pre decre.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.pre inc .c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.pre-incre.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.prod of 2 int.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.pulequ.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.quo &amp; rem .c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.quo and rem.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.size of char.c (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.size of char.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.size of double.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.size of double.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.size of float(t3-6).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.size of int(t3-5).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.string.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sub of 2 int.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sub var(t2-7).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.subequ.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sum of 2 int.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.two int var(t2-2).c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.two lines.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.val later(t2-10).c.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DHIVYADEEPA T/Desktop/c program&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="C/C++ File.divequ and %equ.c">
+    <configuration name="AO equ.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c program" TARGET_NAME="AO equ.c" CONFIG_NAME="AO equ.c">
+      <option name="sourceFile" value="AO equ.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RO less.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c program" TARGET_NAME="RO less.c" CONFIG_NAME="RO less.c">
+      <option name="sourceFile" value="RO less.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="divequ and %equ.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c program" TARGET_NAME="divequ and %equ.c" CONFIG_NAME="divequ and %equ.c">
+      <option name="sourceFile" value="divequ and %equ.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mulequ.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c program" TARGET_NAME="mulequ.c" CONFIG_NAME="mulequ.c">
+      <option name="sourceFile" value="mulequ.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pulequ.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c program" TARGET_NAME="pulequ.c" CONFIG_NAME="pulequ.c">
+      <option name="sourceFile" value="pulequ.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="subequ.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c program" TARGET_NAME="subequ.c" CONFIG_NAME="subequ.c">
+      <option name="sourceFile" value="subequ.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.divequ and %equ.c" />
+        <item itemvalue="C/C++ File.mulequ.c" />
+        <item itemvalue="C/C++ File.subequ.c" />
+        <item itemvalue="C/C++ File.pulequ.c" />
+        <item itemvalue="C/C++ File.AO equ.c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64b44824-3a72-44cc-9b1c-bbffb975a0b0" name="Changes" comment="" />
+      <created>1770282247768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770282247768</updated>
+      <workItem from="1770282251105" duration="6815000" />
+      <workItem from="1770298862766" duration="8142000" />
+      <workItem from="1770310566892" duration="17000" />
+      <workItem from="1770338417259" duration="735000" />
+      <workItem from="1770349316690" duration="3850000" />
+      <workItem from="1770363830782" duration="1386000" />
+      <workItem from="1770365835766" duration="7537000" />
+      <workItem from="1770384096283" duration="12000" />
+      <workItem from="1770384551105" duration="83000" />
+      <workItem from="1770384771082" duration="46000" />
+      <workItem from="1770388482958" duration="1510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/integer.c</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/floating.c</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/string.c</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/change var val(t2-5).c</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/change var val(t2-5).c</url>
+          <line>1</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/sub var(t2-7).c</url>
+          <line>1</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/double var(t3-3).c</url>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/double var(t3-3).c</url>
+          <line>1</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/int to float(t3-9).c</url>
+          <line>3</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/post incre.c</url>
+          <line>1</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/com 2 num .c</url>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/com 2 num gre &amp; less.c</url>
+          <line>1</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/log AND on non 0.c</url>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AND and OR.c</url>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AO sub equa.c</url>
+          <line>7</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AO sub equa.c</url>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AO mul equa.c</url>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/quo and rem.c</url>
+          <line>1</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/post inc.c</url>
+          <line>1</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/incr twice.c</url>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
